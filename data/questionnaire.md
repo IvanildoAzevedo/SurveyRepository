@@ -4,8 +4,7 @@
 
 Welcome!
 
-I am Ivanildo Monteiro de Azevedo, Ph.D. student at the Universidade Federal de Pernambuco. This survey is part of the research conducted under the supervision of Professors Sergio Soares (CIn/UFPE) and Eudis Oliveira Teixeira (IFSertãoPE), and we greatly
-appreciate your assistance in responding to it.
+<!-- I am Ivanildo Monteiro de Azevedo, Ph.D. student at the Universidade Federal de Pernambuco. This survey is part of the research conducted under the supervision of Professors Sergio Soares (CIn/UFPE) and Eudis Oliveira Teixeira (IFSertãoPE), and we greatly appreciate your assistance in responding to it. -->
 
 This survey explores the perception of Empirical Software Engineering experts concerning the so-called "Replication Crisis" and the acceptability of the definition of the terms Repeatability, Reproducibility, and Replicability in the Software Engineering context.
 
@@ -16,8 +15,7 @@ We would like you to answer the following questions in English or Brazilian Port
 Data will be collected in a way that allows the anonymity of the respondent, not allowing their identification. We grant the privacy
 of using the collected information following the Brazilian personal data protection law, General Personal Data Protection Law (LGPD), available at: [https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm)
 
-In case of questions about the survey, you can contact us by email: ima2 at cin dot ufpe dot br, scbs at cin dot ufpe dot br, and
-eudis dot oliveira at ifsertao-pe dot edu dot br.
+<!-- In case of questions about the survey, you can contact us by email: ima2 at cin dot ufpe dot br, scbs at cin dot ufpe dot br, and eudis dot oliveira at ifsertao-pe dot edu dot br. -->
 
 Finally, thank you in advance for your collaboration and contribution to this research.
 
