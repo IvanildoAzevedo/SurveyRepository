@@ -1,4 +1,4 @@
-# Importance of Repeatability, Reproducibility, and Replicability
+# Repeatability, Reproducibility, and Replicability are important
 
 #### [Q14] Do you believe that Repeatability, Reproducibility, and Replicability are important to strengthen the evidence in Empirical Software Engineering research?
 
