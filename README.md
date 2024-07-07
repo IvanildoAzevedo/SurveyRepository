@@ -17,3 +17,4 @@ Data related to the submitted paper "Trends of Researchers in Empirical Software
 - [Experiment statements](data/Experimentstatements.md)
 - [Repeatability, Reproducibility, and Replicability are important](data/RepeatabilityReproducibilityandReplicabilityareimportant.md)
 - [Replication Crisis in Software Engineering](data/ReplicationCrisisinSoftwareEngineering.md)
+- [Inclusion and exclusion criteria](data/InclusionAndExclusionCriteria.md)
