@@ -94,7 +94,7 @@ Check all that apply.
 
 *Mark just one option.*
 
-- [ ] Yes — `Skip to question 7`
+- [ ] Yes
 - [ ] No
 
 #### 7. How many years of experience you have performing research in Empirical Software Engineering. *
