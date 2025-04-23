@@ -1,16 +1,20 @@
 # Inclusion and exclusion criteria
 
-### Inclusion criteria
+## Inclusion criteria
 
-- Software Engineering paper.
-- Paper published from 2013 to 2022 (inclusive).
-- Paper that addresses Replication.
+- White papers.
+- Software Engineering papers.
+- Papers published from 2013 to 2022 (inclusive).
+- Papers that study replication or which report a replication of a previous study.
+  - Studies that explore replication.
+  - Studies in which the main goal of replication is to evaluate the replicability of a specific approach (including tools, methodologies, or other techniques).
 
-### Exclusion criteria
 
-- Year of publication outside the time range of 2013 to 2022.
+## Exclusion criteria
+
+- Papers published outside the time range of 2013 to 2022.
 - Papers not written in English.
-- Paper is not available online.
-- Repeated or duplicated paper.
+- Papers not available online.
+- Repeated or duplicated papers (papers that relates the same study twice, such as pre-prints).
 - Paper that has done meta-analyses, secondary, and tertiary studies.
-- Studies such as guest articles, tutorials, keynotes, workshop reports, theses, dissertations, technical reports, books, extended summaries, posters, and papers expressing personal views or expert opinions.
+- Documents such as invited papers, presentations, tutorials, keynote speeches, workshop reports, theses, dissertations, technical reports, books, extended summaries, extended abstracts, posters, and papers expressing personal views or expert opinions.
