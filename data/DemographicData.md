@@ -1,19 +1,33 @@
 # Demographic Data
 
-#### [Q1] How old are you?
+### [Q1] How old are you?
 
-#### [Q2] What is your gender?
+- Answers: **Under 18; 18 - 24; 25 - 34; 35 - 44; 45 - 54; 55 - 64; 65 or over; I prefer not to answer it.**
 
-#### [Q3] Which continent do you live in?
+### [Q2] What is your gender?
 
-#### [Q4] As a researcher, what is your professional qualification?	
+- Answers: **Female; Male; No-binary; I prefer not to answer it.**
 
-#### [Q5] Choose all the correct options that describe you.	
+### [Q3] Which continent do you live in?
 
-#### [Q6] In your current role, do you carry out primary research?	
+- Answers: **Asia (including the Middle East); Oceania; Africa; Europe; South America; North America (including Central America and the Caribbean); I prefer not to answer it.**
 
-#### [Q7] How many years of experience you have performing research in Empirical Software Engineering.
+### [Q4] As a researcher, what is your professional qualification?	
 
+- Answers: **Technical / Associate degree; Graduation degree; Master; Ph.D.; Other: ____________________**.
+
+### [Q5] Choose all the correct options that describe you.	
+
+- Answers: **Laboratory Director/Head; PhD Candidate; Master's Degree student; Professor Researcher; Director of Research; Technician/Research Assistant; Other: ____________________**.
+
+### [Q6] In your current role, do you carry out primary research?	
+
+- Answers: **Yes, No**.
+
+### [Q7] How many years of experience you have performing research in Empirical Software Engineering.
+
+- Answers: **Less than 1 year; 1 to 3 years; 4 to 6 years; More than 6 years**.
+  
 <br>
 
 | ID   | [Q1]                       | [Q2]                       | [Q3]                                                        | [Q4]              | [Q5]                                                                          | [Q6]   | [Q7]              |
