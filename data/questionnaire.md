@@ -119,7 +119,7 @@ the same measuring system, under the same operating conditions, in the same loca
 
 *Mark only one option per line.*
 
-|                                                      | Strongly | Agree Agree | Neither Agree nor Disagree | Disagree Strongly | Disagree |
+|                                                      | Strongly Agree | Agree | Neither Agree nor Disagree | Disagree | Strongly Disagree |
 | ---------------------------------------------------- | -------- |----------- | -------------------------- | ----------------- | -------- |
 | Do you agree with ACM's definition of Repeatability? |      |        |                         |                |      |
 
@@ -139,7 +139,7 @@ the same measuring system, under the same operating conditions, in the same loca
 
 *Mark only one option per line.*
 
-|                                                        | Strongly | Agree Agree | Neither Agree nor Disagree | Disagree Strongly | Disagree |
+|                                                        | Strongly Agree | Agree | Neither Agree nor Disagree | Disagree | Strongly Disagree |
 | ------------------------------------------------------ | -------- | ----------- | -------------------------- | ----------------- | -------- |
 | Do you agree with ACM's definition of Reproducibility? |          |             |                            |                   | |
 
@@ -159,7 +159,7 @@ The measurement can be obtained with stated precision by a different team, a dif
 
 *Mark only one option per line.*
 
-|                                                         | Strongly | Agree Agree | Neither Agree nor Disagree | Disagree Strongly | Disagree |
+|                                                         | Strongly Agree | Agree | Neither Agree nor Disagree | Disagree | Strongly Disagree |
 | ------------------------------------------------------- | -------- | ----------- | -------------------------- | ----------------- | -------- |
 | Do you agree with ACM's<br>definition of Replicability? |          |             |                            |                   | |
 
@@ -232,7 +232,7 @@ The measurement can be obtained with stated precision by a different team, a dif
 
 *Mark only one option per line.*
 
-|                                                                                      | Strongly | Agree Agree | Neither Agree nor Disagree | Disagree Strongly | Disagree |
+|                                                                                      | Strongly Agree | Agree | Neither Agree nor Disagree | Disagree | Strongly Disagree |
 | ------------------------------------------------------------------------------------ | -------- | ----------- | -------------------------- | ----------------- | -------- |
 | To what degree do you agree or disagree in relation to the aforementioned assertion? |          |             |                            |                   |
 
@@ -274,7 +274,7 @@ The measurement can be obtained with stated precision by a different team, a dif
 
 *Select only one option per line.*
 
-|                                                                                       | Strongly | Agree Agree | Neither Agree nor Disagree | Disagree Strongly | Disagree |
+|                                                                                       |  Strongly Agree | Agree | Neither Agree nor Disagree | Disagree | Strongly Disagree |
 | ------------------------------------------------------------------------------------- | -------- | ----------- | -------------------------- | ----------------- | -------- |
 | A failure to reproduce a result most often means that the original finding is wrong.  |          |             |                            |                   |          |
 | A failure to reproduce rarely detracts from the validity of the original finding.<br> |          |             |                            |                   |
