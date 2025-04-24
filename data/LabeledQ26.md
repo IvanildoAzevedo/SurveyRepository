@@ -40,7 +40,6 @@
 | - Lack of access to required tools or hardware         | 2            | 4.3%          |
 | ---------------------------------------------------- | --- | ------- |
 | **Non-informative response**                 | **2**    | **4.3%**  |
-| - Non-informative response                          | 2            | 4.3%          |
 | ---------------------------------------------------- | --- | ------- |
 | **_Total of responses_**                         | **_46_** | \-            |
 
