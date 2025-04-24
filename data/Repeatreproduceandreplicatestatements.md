@@ -8,6 +8,8 @@
 
 ### [Q25] Use the scale below to indicate how much each of the following factors contributes to failure to Reproduce, Replicate, and Repeat results:
 
+- Answers: **Always**, **Very Often**, **Sometimes**, **Rarely**, **Never**.
+
 ##### [Q25A] Fraud (i.e., fabricated or falsified results).
 
 ##### [Q25B] Pressure to publish for career advancement.
@@ -28,111 +30,113 @@
 
 ##### [Q25J] Human factors.
 
+
+
 <br>
 
-| ID   | [Q24A]                     | [Q24B]                     | [Q25A]        | [Q25B]        | [Q25C]        | [Q25D]        | [Q25E]        | [Q25F]        | [Q25G]        | [Q25H]        | [Q25I]        | [Q25J]        |
-| ---- | -------------------------- | -------------------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| P1   | Agree                      | Strongly Agree             | I am not sure | I am not sure | I am not sure | I am not sure | I am not sure | I am not sure | I am not sure | I am not sure | I am not sure | I am not sure |
-| P2   | Neither Agree nor Disagree | Disagree                   | Sometimes     | Sometimes     | Sometimes     | Sometimes     | Sometimes     | Sometimes     | Always        | Always        | Sometimes     | Very often    |
-| P3   | Strongly Disagree          | Strongly Agree             | I am not sure | I am not sure | I am not sure | Never         | Sometimes     | Sometimes     | Rarely        | Sometimes     | Always        | Always        |
-| P4   | Disagree                   | Agree                      | I am not sure | I am not sure | Very often    | Very often    | I am not sure | Very often    | Very often    | Always        | Always        | Very often    |
-| P5   | Agree                      | Disagree                   | Very often    | Sometimes     | Sometimes     | Sometimes     | Sometimes     | Sometimes     | Very often    | Very often    | Very often    | Always        |
-| P6   | Agree                      | Disagree                   | Very often    | Always        | Sometimes     | Always        | Always        | Rarely        | Very often    | Very often    | Very often    | Very often    |
-| P7   | Disagree                   | Neither Agree nor Disagree | Always        | Always        | Sometimes     | Sometimes     | Very often    | Very often    | Always        | Sometimes     | Rarely        | Rarely        |
-| P8   | Neither Agree nor Disagree | Strongly Disagree          | Very often    | I am not sure | Sometimes     | Very often    | Always        | Always        | Always        | Always        | Sometimes     | Very often    |
-| P9   | Neither Agree nor Disagree | Neither Agree nor Disagree | Very often    | Very often    | Very often    | Very often    | Sometimes     | Sometimes     | Very often    | Very often    | Very often    | Sometimes     |
-| P10  | Neither Agree nor Disagree | Agree                      | Sometimes     | Very often    | Very often    | Very often    | Very often    | Very often    | Very often    | Sometimes     | Sometimes     | Very often    |
-| P11  | Strongly Disagree          | Disagree                   | Rarely        | Very often    | Sometimes     | Sometimes     | Very often    | Very often    | Very often    | Always        | Very often    | Sometimes     |
-| P12  | Neither Agree nor Disagree | Agree                      | Sometimes     | Very often    | Always        | Very often    | Sometimes     | Very often    | Always        | Always        | Rarely        | Rarely        |
-| P13  | Neither Agree nor Disagree | Disagree                   | Sometimes     | Very often    | Very often    | Sometimes     | Very often    | Sometimes     | Very often    | Very often    | Sometimes     | Very often    |
-| P14  | Neither Agree nor Disagree | Neither Agree nor Disagree | Sometimes     | Sometimes     | Sometimes     | Very often    | Sometimes     | Very often    | Very often    | Very often    | Very often    | Very often    |
-| P15  | Neither Agree nor Disagree | Strongly Disagree          | Sometimes     | Very often    | Sometimes     | Very often    | Very often    | Very often    | Very often    | Very often    | Very often    | Very often    |
-| P16  | Strongly Disagree          | Strongly Disagree          | Sometimes     | Sometimes     | Very often    | Sometimes     | Always        | Always        | Very often    | Always        | Rarely        | Rarely        |
-| P17  | Neither Agree nor Disagree | Disagree                   | Rarely        | Rarely        | I am not sure | Sometimes     | Sometimes     | Sometimes     | Very often    | Very often    | Sometimes     | Sometimes     |
-| P18  | Disagree                   | Neither Agree nor Disagree | Rarely        | Very often    | Always        | Very often    | Rarely        | Very often    | Very often    | Very often    | Very often    | Very often    |
-| P19  | Neither Agree nor Disagree | Disagree                   | Rarely        | Very often    | Sometimes     | Always        | Very often    | Very often    | Very often    | Very often    | Sometimes     | Very often    |
-| P20  | Neither Agree nor Disagree | Agree                      | Rarely        | Very often    | Sometimes     | Sometimes     | Sometimes     | Sometimes     | Very often    | Very often    | Rarely        | Rarely        |
-| P21  | Disagree                   | Agree                      | Rarely        | Sometimes     | Sometimes     | Very often    | Sometimes     | Always        | Very often    | Very often    | Sometimes     | Very often    |
-| P22  | Disagree                   | Strongly Disagree          | Rarely        | Very often    | Sometimes     | Always        | Rarely        | Sometimes     | Sometimes     | Very often    | Sometimes     | Sometimes     |
-| P23  | Disagree                   | Agree                      | I am not sure | Very often    | I am not sure | Sometimes     | Sometimes     | Very often    | Very often    | Always        | Very often    | Always        |
-| P24  | Disagree                   | Agree                      | Sometimes     | Always        | Sometimes     | Rarely        | Very often    | Very often    | Very often    | Very often    | Rarely        | Very often    |
-| P25  | Strongly Disagree          | Agree                      | Always        | Very often    | Very often    | Sometimes     | Sometimes     | Very often    | Sometimes     | Very often    | Sometimes     | Very often    |
-| P26  | Disagree                   | Agree                      | Rarely        | Rarely        | Rarely        | Rarely        | Rarely        | Sometimes     | Sometimes     | Sometimes     | Very often    | Sometimes     |
-| P27  | Strongly Disagree          | Neither Agree nor Disagree | Rarely        | Sometimes     | Sometimes     | Sometimes     | Very often    | Sometimes     | Very often    | Sometimes     | Sometimes     | Sometimes     |
-| P28  | Disagree                   | Disagree                   | I am not sure | I am not sure | I am not sure | I am not sure | I am not sure | Sometimes     | Sometimes     | Very often    | Sometimes     | I am not sure |
-| P29  | Disagree                   | Strongly Agree             | Always        | Always        | Always        | Always        | Always        | Very often    | Very often    | Always        | Very often    | Sometimes     |
-| P30  | Disagree                   | Agree                      | Very often    | Very often    | Rarely        | Very often    | Very often    | I am not sure | Always        | Always        | Sometimes     | Sometimes     |
-| P31  | Disagree                   | Disagree                   | Never         | Never         | Sometimes     | Sometimes     | Sometimes     | Very often    | Very often    | Very often    | Sometimes     | Very often    |
-| P32  | Strongly Agree             | Agree                      | Rarely        | Sometimes     | Sometimes     | Very often    | Sometimes     | Sometimes     | Sometimes     | Very often    | Very often    | Very often    |
-| P33  | Disagree                   | Disagree                   | Rarely        | Sometimes     | Sometimes     | Sometimes     | Sometimes     | Sometimes     | Sometimes     | Sometimes     | Sometimes     | Always        |
-| P34  | Disagree                   | Neither Agree nor Disagree | Never         | Rarely        | Very often    | Sometimes     | Very often    | Always        | Always        | Sometimes     | Very often    | Sometimes     |
-| P35  | Neither Agree nor Disagree | Disagree                   | Always        | I am not sure | Sometimes     | Sometimes     | Always        | Always        | Always        | Always        | Always        | Very often    |
-| P36  | Neither Agree nor Disagree | Neither Agree nor Disagree | Rarely        | Sometimes     | Sometimes     | Sometimes     | Rarely        | Sometimes     | Always        | Always        | Very often    | Very often    |
-| P37  | Neither Agree nor Disagree | Neither Agree nor Disagree | Sometimes     | Rarely        | Sometimes     | Sometimes     | Sometimes     | Very often    | Very often    | Always        | Very often    | Very often    |
-| P38  | Neither Agree nor Disagree | Neither Agree nor Disagree | Sometimes     | Always        | Very often    | Very often    | Always        | Very often    | Always        | Very often    | Very often    | Always        |
-| P39  | Strongly Disagree          | Neither Agree nor Disagree | Sometimes     | Sometimes     | Sometimes     | Never         | Always        | Sometimes     | Rarely        | Very often    | Never         | Always        |
-| P40  | Neither Agree nor Disagree | Neither Agree nor Disagree | Always        | Very often    | Very often    | Very often    | Always        | Sometimes     | Sometimes     | Sometimes     | Sometimes     | Sometimes     |
-| P41  | Neither Agree nor Disagree | Disagree                   | Rarely        | Sometimes     | Rarely        | Sometimes     | Sometimes     | Sometimes     | Sometimes     | Sometimes     | Very often    | Very often    |
-| P42  | Agree                      | Agree                      | Sometimes     | Sometimes     | Very often    | Very often    | Very often    | Sometimes     | Always        | Always        | Very often    | Always        |
-| P43  | Disagree                   | Disagree                   | I am not sure | Very often    | Very often    | Very often    | I am not sure | Very often    | Very often    | Very often    | Very often    | I am not sure |
-| P44  | Neither Agree nor Disagree | Disagree                   | Always        | Very often    | Sometimes     | Sometimes     | Very often    | Sometimes     | Very often    | Very often    | Very often    | Very often    |
-| P45  | Neither Agree nor Disagree | Disagree                   | Rarely        | Very often    | Rarely        | Sometimes     | Very often    | Sometimes     | Sometimes     | Always        | Sometimes     | Very often    |
-| P46  | Strongly Agree             | Strongly Agree             | Always        | Very often    | Always        | Sometimes     | Sometimes     | Always        | Always        | Always        | Sometimes     | Always        |
-| P47  | Disagree                   | Disagree                   | Sometimes     | Very often    | Sometimes     | Very often    | Very often    | Sometimes     | Very often    | Very often    | Very often    | Very often    |
-| P48  | Strongly Agree             | Strongly Disagree          | Sometimes     | Always        | Very often    | Very often    | Always        | Very often    | Sometimes     | Very often    | Very often    | Always        |
-| P49  | Disagree                   | Neither Agree nor Disagree | Sometimes     | Very often    | Very often    | Very often    | Very often    | Sometimes     | Very often    | Sometimes     | Sometimes     | Very often    |
-| P50  | Disagree                   | Neither Agree nor Disagree | Rarely        | Sometimes     | Sometimes     | Rarely        | Rarely        | Rarely        | Sometimes     | Rarely        | Rarely        | Sometimes     |
-| P51  | Agree                      | Agree                      | Rarely        | Sometimes     | Sometimes     | Sometimes     | Very often    | Sometimes     | Sometimes     | Sometimes     | Sometimes     | Sometimes     |
-| P52  | Disagree                   | Disagree                   | I am not sure | Sometimes     | Sometimes     | Very often    | Sometimes     | Sometimes     | Very often    | Very often    | Rarely        | Sometimes     |
-| P53  | Strongly Disagree          | Agree                      | Always        | Very often    | Very often    | Rarely        | Sometimes     | Very often    | Always        | Sometimes     | Rarely        | Rarely        |
-| P54  | Neither Agree nor Disagree | Disagree                   | Sometimes     | Very often    | Very often    | Sometimes     | Sometimes     | Very often    | Sometimes     | Sometimes     | Sometimes     | Sometimes     |
-| P55  | Disagree                   | Disagree                   | Rarely        | Very often    | Very often    | Sometimes     | Sometimes     | Sometimes     | Sometimes     | Very often    | Very often    | Very often    |
-| P56  | Disagree                   | Neither Agree nor Disagree | Sometimes     | Very often    | Very often    | Very often    | Very often    | Very often    | Sometimes     | Very often    | Very often    | Very often    |
-| P57  | Agree                      | Disagree                   | Rarely        | Sometimes     | Sometimes     | I am not sure | Sometimes     | Very often    | Very often    | Very often    | Rarely        | Sometimes     |
-| P58  | Neither Agree nor Disagree | Agree                      | Rarely        | Sometimes     | Sometimes     | Rarely        | Sometimes     | Sometimes     | Sometimes     | Sometimes     | Rarely        | I am not sure |
-| P59  | Disagree                   | Agree                      | Always        | Sometimes     | Sometimes     | Sometimes     | Very often    | Very often    | Always        | Always        | Sometimes     | Rarely        |
-| P60  | Agree                      | Disagree                   | Rarely        | Very often    | Sometimes     | Sometimes     | Rarely        | Very often    | Very often    | Very often    | Rarely        | Sometimes     |
-| P61  | Neither Agree nor Disagree | Neither Agree nor Disagree | Sometimes     | Very often    | Sometimes     | Very often    | Very often    | Very often    | Sometimes     | Very often    | Very often    | Very often    |
-| P62  | Neither Agree nor Disagree | Disagree                   | Rarely        | Sometimes     | Very often    | Always        | Very often    | Always        | Very often    | Very often    | Sometimes     | Very often    |
-| P63  | Neither Agree nor Disagree | Strongly Agree             | Rarely        | Sometimes     | Never         | Never         | Very often    | Very often    | Sometimes     | Sometimes     | Sometimes     | Sometimes     |
-| P64  | Neither Agree nor Disagree | Neither Agree nor Disagree | Rarely        | Sometimes     | Sometimes     | Sometimes     | Rarely        | Sometimes     | Very often    | Always        | Very often    | Rarely        |
-| P65  | Disagree                   | Neither Agree nor Disagree | I am not sure | Never         | Rarely        | Sometimes     | Sometimes     | Very often    | Sometimes     | Very often    | Very often    | Very often    |
-| P66  | Disagree                   | Agree                      | Rarely        | Sometimes     | Sometimes     | Very often    | Very often    | Very often    | Rarely        | Sometimes     | Very often    | Sometimes     |
-| P67  | Disagree                   | Neither Agree nor Disagree | Rarely        | I am not sure | Rarely        | I am not sure | Sometimes     | Never         | Always        | Always        | Very often    | Sometimes     |
-| P68  | Disagree                   | Agree                      | Sometimes     | Very often    | Always        | Always        | Always        | Always        | Very often    | Always        | Very often    | Sometimes     |
-| P69  | Strongly Disagree          | Neither Agree nor Disagree | Rarely        | Very often    | Very often    | Sometimes     | Rarely        | Very often    | Sometimes     | Very often    | Never         | Very often    |
-| P70  | Agree                      | Disagree                   | Sometimes     | Very often    | Sometimes     | Sometimes     | Always        | Very often    | Very often    | Very often    | Always        | Very often    |
-| P71  | Neither Agree nor Disagree | Neither Agree nor Disagree | Rarely        | Sometimes     | Sometimes     | Sometimes     | Very often    | Sometimes     | Sometimes     | Very often    | Very often    | Sometimes     |
-| P72  | Disagree                   | Disagree                   | Very often    | Very often    | Very often    | Very often    | Very often    | Very often    | Very often    | Very often    | Very often    | Very often    |
-| P73  | Disagree                   | Agree                      | Rarely        | Sometimes     | Very often    | Very often    | Sometimes     | Very often    | Always        | Always        | Sometimes     | Sometimes     |
-| P74  | Neither Agree nor Disagree | Neither Agree nor Disagree | Rarely        | Very often    | Sometimes     | Very often    | Sometimes     | Always        | Sometimes     | Sometimes     | Sometimes     | Sometimes     |
-| P75  | Disagree                   | Disagree                   | Sometimes     | Sometimes     | Very often    | Very often    | Very often    | Very often    | Very often    | Very often    | Very often    | Very often    |
-| P76  | Neither Agree nor Disagree | Neither Agree nor Disagree | Always        | Very often    | Very often    | Very often    | Very often    | Sometimes     | Very often    | Rarely        | Rarely        | Sometimes     |
-| P77  | Disagree                   | Disagree                   | I am not sure | I am not sure | I am not sure | I am not sure | I am not sure | I am not sure | I am not sure | I am not sure | Sometimes     | Always        |
-| P78  | Disagree                   | Disagree                   | I am not sure | Always        | Sometimes     | Sometimes     | Very often    | Very often    | Rarely        | Very often    | Rarely        | Always        |
-| P79  | Neither Agree nor Disagree | Neither Agree nor Disagree | Sometimes     | Always        | Sometimes     | Always        | Very often    | Sometimes     | Very often    | Very often    | Sometimes     | Very often    |
-| P80  | Neither Agree nor Disagree | Disagree                   | Rarely        | Sometimes     | Sometimes     | Sometimes     | Very often    | Very often    | Very often    | Very often    | Rarely        | Always        |
-| P81  | Neither Agree nor Disagree | Neither Agree nor Disagree | Rarely        | Sometimes     | Very often    | Very often    | Very often    | Very often    | I am not sure | I am not sure | I am not sure | I am not sure |
-| P82  | Strongly Disagree          | Agree                      | Always        | Sometimes     | Sometimes     | Sometimes     | Very often    | Very often    | Very often    | Always        | Sometimes     | Rarely        |
-| P83  | Neither Agree nor Disagree | Disagree                   | I am not sure | Sometimes     | Sometimes     | Rarely        | Very often    | Sometimes     | Sometimes     | Rarely        | Always        | Sometimes     |
-| P84  | Neither Agree nor Disagree | Strongly Disagree          | I am not sure | Very often    | Sometimes     | Always        | Sometimes     | Sometimes     | Always        | Always        | Sometimes     | Sometimes     |
-| P85  | Strongly Disagree          | Disagree                   | Rarely        | Rarely        | Very often    | Rarely        | Rarely        | Very often    | Sometimes     | Very often    | Sometimes     | I am not sure |
-| P86  | Disagree                   | Neither Agree nor Disagree | Rarely        | Very often    | Sometimes     | Sometimes     | Rarely        | Very often    | Very often    | Very often    | Sometimes     | Sometimes     |
-| P87  | Neither Agree nor Disagree | Disagree                   | I am not sure | Very often    | I am not sure | Sometimes     | Sometimes     | Very often    | Very often    | Very often    | Very often    | Sometimes     |
-| P88  | Disagree                   | Agree                      | I am not sure | Very often    | Very often    | Sometimes     | Always        | Very often    | Very often    | Very often    | Sometimes     | Sometimes     |
-| P89  | Disagree                   | Disagree                   | Always        | Very often    | Very often    | Very often    | Very often    | Always        | Very often    | Always        | Very often    | Very often    |
-| P90  | Neither Agree nor Disagree | Neither Agree nor Disagree | Always        | Sometimes     | Sometimes     | Very often    | Sometimes     | Very often    | Sometimes     | Sometimes     | Very often    | Sometimes     |
-| P91  | Disagree                   | Agree                      | Rarely        | Very often    | Sometimes     | Rarely        | Rarely        | Very often    | Very often    | Very often    | Very often    | Sometimes     |
-| P92  | Neither Agree nor Disagree | Neither Agree nor Disagree | Very often    | Sometimes     | Sometimes     | Very often    | Sometimes     | Sometimes     | Very often    | Very often    | Very often    | Very often    |
-| P93  | Neither Agree nor Disagree | Neither Agree nor Disagree | Always        | Sometimes     | Very often    | Sometimes     | Sometimes     | Very often    | Always        | Always        | Sometimes     | Sometimes     |
-| P94  | Strongly Agree             | Agree                      | I am not sure | Very often    | Very often    | Very often    | Very often    | Very often    | Very often    | Always        | Very often    | Always        |
-| P95  | Agree                      | Disagree                   | Sometimes     | Sometimes     | Very often    | Very often    | Very often    | Very often    | Very often    | Very often    | Rarely        | Very often    |
-| P96  | Disagree                   | Neither Agree nor Disagree | Always        | Very often    | Sometimes     | Rarely        | Very often    | Very often    | Sometimes     | Sometimes     | Rarely        | Sometimes     |
-| P97  | Disagree                   | Agree                      | Rarely        | Sometimes     | Sometimes     | Rarely        | Rarely        | Sometimes     | Sometimes     | Very often    | Very often    | Sometimes     |
-| P98  | Neither Agree nor Disagree | Disagree                   | I am not sure | Very often    | Rarely        | Sometimes     | Sometimes     | Very often    | Very often    | Always        | Sometimes     | I am not sure |
-| P99  | Disagree                   | Disagree                   | Always        | Very often    | Very often    | Very often    | Sometimes     | Always        | Always        | Always        | Sometimes     | Sometimes     |
-| P100 | Strongly Disagree          | Neither Agree nor Disagree | Rarely        | Very often    | Always        | Sometimes     | Always        | Sometimes     | Very often    | Very often    | Always        | I am not sure |
-| P101 | Neither Agree nor Disagree | Disagree                   | I am not sure | Sometimes     | Sometimes     | Sometimes     | Very often    | Very often    | Very often    | Very often    | Sometimes     | I am not sure |
+| ID   | [Q25-A]       | [Q25-B]       | [Q25-C]       | [Q25-D]       | [Q25-E]       | [Q25-F]       | [Q25-G]       | [Q25-H]       | [Q25-I]       | [Q25-J]       |
+| ---- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| P01  | I am not sure | I am not sure | I am not sure | I am not sure | I am not sure | I am not sure | I am not sure | I am not sure | I am not sure | I am not sure |
+| P02  | Sometimes     | Sometimes     | Sometimes     | Sometimes     | Sometimes     | Sometimes     | Always        | Always        | Sometimes     | Very often    |
+| P03  | I am not sure | I am not sure | I am not sure | Never         | Sometimes     | Sometimes     | Rarely        | Sometimes     | Always        | Always        |
+| P04  | I am not sure | I am not sure | Very often    | Very often    | I am not sure | Very often    | Very often    | Always        | Always        | Very often    |
+| P05  | Very often    | Sometimes     | Sometimes     | Sometimes     | Sometimes     | Sometimes     | Very often    | Very often    | Very often    | Always        |
+| P06  | Very often    | Always        | Sometimes     | Always        | Always        | Rarely        | Very often    | Very often    | Very often    | Very often    |
+| P07  | Always        | Always        | Sometimes     | Sometimes     | Very often    | Very often    | Always        | Sometimes     | Rarely        | Rarely        |
+| P08  | Very often    | I am not sure | Sometimes     | Very often    | Always        | Always        | Always        | Always        | Sometimes     | Very often    |
+| P09  | Very often    | Very often    | Very often    | Very often    | Sometimes     | Sometimes     | Very often    | Very often    | Very often    | Sometimes     |
+| P10  | Sometimes     | Very often    | Very often    | Very often    | Very often    | Very often    | Very often    | Sometimes     | Sometimes     | Very often    |
+| P11  | Rarely        | Very often    | Always        | Sometimes     | Always        | Sometimes     | Very often    | Very often    | Always        | I am not sure |
+| P12  | I am not sure | Sometimes     | Sometimes     | Sometimes     | Very often    | Very often    | Very often    | Very often    | Sometimes     | I am not sure |
+| P13  | Rarely        | Very often    | Sometimes     | Sometimes     | Very often    | Very often    | Very often    | Always        | Very often    | Sometimes     |
+| P14  | Sometimes     | Very often    | Always        | Very often    | Sometimes     | Very often    | Always        | Always        | Rarely        | Rarely        |
+| P15  | Sometimes     | Very often    | Very often    | Sometimes     | Very often    | Sometimes     | Very often    | Very often    | Sometimes     | Very often    |
+| P16  | Sometimes     | Sometimes     | Sometimes     | Very often    | Sometimes     | Very often    | Very often    | Very often    | Very often    | Very often    |
+| P17  | Sometimes     | Very often    | Sometimes     | Very often    | Very often    | Very often    | Very often    | Very often    | Very often    | Very often    |
+| P18  | Sometimes     | Sometimes     | Very often    | Sometimes     | Always        | Always        | Very often    | Always        | Rarely        | Rarely        |
+| P19  | Rarely        | Rarely        | I am not sure | Sometimes     | Sometimes     | Sometimes     | Very often    | Very often    | Sometimes     | Sometimes     |
+| P20  | Rarely        | Very often    | Always        | Very often    | Rarely        | Very often    | Very often    | Very often    | Very often    | Very often    |
+| P21  | Rarely        | Very often    | Sometimes     | Always        | Very often    | Very often    | Very often    | Very often    | Sometimes     | Very often    |
+| P22  | Rarely        | Very often    | Sometimes     | Sometimes     | Sometimes     | Sometimes     | Very often    | Very often    | Rarely        | Rarely        |
+| P23  | Rarely        | Sometimes     | Sometimes     | Very often    | Sometimes     | Always        | Very often    | Very often    | Sometimes     | Very often    |
+| P24  | Rarely        | Very often    | Sometimes     | Always        | Rarely        | Sometimes     | Sometimes     | Very often    | Sometimes     | Sometimes     |
+| P25  | I am not sure | Very often    | I am not sure | Sometimes     | Sometimes     | Very often    | Very often    | Always        | Very often    | Always        |
+| P26  | Sometimes     | Always        | Sometimes     | Rarely        | Very often    | Very often    | Very often    | Very often    | Rarely        | Very often    |
+| P27  | Always        | Very often    | Very often    | Sometimes     | Sometimes     | Very often    | Sometimes     | Very often    | Sometimes     | Very often    |
+| P28  | Rarely        | Rarely        | Rarely        | Rarely        | Rarely        | Sometimes     | Sometimes     | Sometimes     | Very often    | Sometimes     |
+| P29  | Rarely        | Sometimes     | Sometimes     | Sometimes     | Very often    | Sometimes     | Very often    | Sometimes     | Sometimes     | Sometimes     |
+| P30  | I am not sure | I am not sure | I am not sure | I am not sure | I am not sure | Sometimes     | Sometimes     | Very often    | Sometimes     | I am not sure |
+| P31  | Always        | Always        | Always        | Always        | Always        | Very often    | Very often    | Always        | Very often    | Sometimes     |
+| P32  | Very often    | Very often    | Rarely        | Very often    | Very often    | I am not sure | Always        | Always        | Sometimes     | Sometimes     |
+| P33  | Never         | Never         | Sometimes     | Sometimes     | Sometimes     | Very often    | Very often    | Very often    | Sometimes     | Very often    |
+| P34  | Rarely        | Sometimes     | Sometimes     | Very often    | Sometimes     | Sometimes     | Sometimes     | Very often    | Very often    | Very often    |
+| P35  | Rarely        | Sometimes     | Sometimes     | Sometimes     | Sometimes     | Sometimes     | Sometimes     | Sometimes     | Sometimes     | Always        |
+| P36  | Never         | Rarely        | Very often    | Sometimes     | Very often    | Always        | Always        | Sometimes     | Very often    | Sometimes     |
+| P37  | Always        | I am not sure | Sometimes     | Sometimes     | Always        | Always        | Always        | Always        | Always        | Very often    |
+| P38  | Rarely        | Sometimes     | Sometimes     | Sometimes     | Rarely        | Sometimes     | Always        | Always        | Very often    | Very often    |
+| P39  | Sometimes     | Rarely        | Sometimes     | Sometimes     | Sometimes     | Very often    | Very often    | Always        | Very often    | Very often    |
+| P40  | Sometimes     | Always        | Very often    | Very often    | Always        | Very often    | Always        | Very often    | Very often    | Always        |
+| P41  | Sometimes     | Sometimes     | Sometimes     | Never         | Always        | Sometimes     | Rarely        | Very often    | Never         | Always        |
+| P42  | Always        | Very often    | Very often    | Very often    | Always        | Sometimes     | Sometimes     | Sometimes     | Sometimes     | Sometimes     |
+| P43  | Rarely        | Sometimes     | Rarely        | Sometimes     | Sometimes     | Sometimes     | Sometimes     | Sometimes     | Very often    | Very often    |
+| P44  | Sometimes     | Sometimes     | Very often    | Very often    | Very often    | Sometimes     | Always        | Always        | Very often    | Always        |
+| P45  | I am not sure | Very often    | Very often    | Very often    | I am not sure | Very often    | Very often    | Very often    | Very often    | I am not sure |
+| P46  | Always        | Very often    | Sometimes     | Sometimes     | Very often    | Sometimes     | Very often    | Very often    | Very often    | Very often    |
+| P47  | Rarely        | Very often    | Rarely        | Sometimes     | Very often    | Sometimes     | Sometimes     | Always        | Sometimes     | Very often    |
+| P48  | Always        | Very often    | Always        | Sometimes     | Sometimes     | Always        | Always        | Always        | Sometimes     | Always        |
+| P49  | Sometimes     | Very often    | Sometimes     | Very often    | Very often    | Sometimes     | Very often    | Very often    | Very often    | Very often    |
+| P50  | Sometimes     | Always        | Very often    | Very often    | Always        | Very often    | Sometimes     | Very often    | Very often    | Always        |
+| P51  | Sometimes     | Very often    | Very often    | Very often    | Very often    | Sometimes     | Very often    | Sometimes     | Sometimes     | Very often    |
+| P52  | Rarely        | Sometimes     | Sometimes     | Rarely        | Rarely        | Rarely        | Sometimes     | Rarely        | Rarely        | Sometimes     |
+| P53  | Rarely        | Sometimes     | Sometimes     | Sometimes     | Very often    | Sometimes     | Sometimes     | Sometimes     | Sometimes     | Sometimes     |
+| P54  | I am not sure | Sometimes     | Sometimes     | Very often    | Sometimes     | Sometimes     | Very often    | Very often    | Rarely        | Sometimes     |
+| P55  | Always        | Very often    | Very often    | Rarely        | Sometimes     | Very often    | Always        | Sometimes     | Rarely        | Rarely        |
+| P56  | Sometimes     | Very often    | Very often    | Sometimes     | Sometimes     | Very often    | Sometimes     | Sometimes     | Sometimes     | Sometimes     |
+| P57  | Rarely        | Very often    | Very often    | Sometimes     | Sometimes     | Sometimes     | Sometimes     | Very often    | Very often    | Very often    |
+| P58  | Sometimes     | Very often    | Very often    | Very often    | Very often    | Very often    | Sometimes     | Very often    | Very often    | Very often    |
+| P59  | Rarely        | Sometimes     | Sometimes     | I am not sure | Sometimes     | Very often    | Very often    | Very often    | Rarely        | Sometimes     |
+| P60  | Rarely        | Sometimes     | Sometimes     | Rarely        | Sometimes     | Sometimes     | Sometimes     | Sometimes     | Rarely        | I am not sure |
+| P61  | Always        | Sometimes     | Sometimes     | Sometimes     | Very often    | Very often    | Always        | Always        | Sometimes     | Rarely        |
+| P62  | Rarely        | Very often    | Sometimes     | Sometimes     | Rarely        | Very often    | Very often    | Very often    | Rarely        | Sometimes     |
+| P63  | Sometimes     | Very often    | Sometimes     | Very often    | Very often    | Very often    | Sometimes     | Very often    | Very often    | Very often    |
+| P64  | Rarely        | Sometimes     | Very often    | Always        | Very often    | Always        | Very often    | Very often    | Sometimes     | Very often    |
+| P65  | Rarely        | Sometimes     | Never         | Never         | Very often    | Very often    | Sometimes     | Sometimes     | Sometimes     | Sometimes     |
+| P66  | Rarely        | Sometimes     | Sometimes     | Sometimes     | Rarely        | Sometimes     | Very often    | Always        | Very often    | Rarely        |
+| P67  | I am not sure | Never         | Rarely        | Sometimes     | Sometimes     | Very often    | Sometimes     | Very often    | Very often    | Very often    |
+| P68  | Rarely        | Sometimes     | Sometimes     | Very often    | Very often    | Very often    | Rarely        | Sometimes     | Very often    | Sometimes     |
+| P69  | Rarely        | I am not sure | Rarely        | I am not sure | Sometimes     | Never         | Always        | Always        | Very often    | Sometimes     |
+| P70  | Sometimes     | Very often    | Always        | Always        | Always        | Always        | Very often    | Always        | Very often    | Sometimes     |
+| P71  | Rarely        | Very often    | Very often    | Sometimes     | Rarely        | Very often    | Sometimes     | Very often    | Never         | Very often    |
+| P72  | Sometimes     | Very often    | Sometimes     | Sometimes     | Always        | Very often    | Very often    | Very often    | Always        | Very often    |
+| P73  | Rarely        | Sometimes     | Sometimes     | Sometimes     | Very often    | Sometimes     | Sometimes     | Very often    | Very often    | Sometimes     |
+| P74  | Very often    | Very often    | Very often    | Very often    | Very often    | Very often    | Very often    | Very often    | Very often    | Very often    |
+| P75  | Rarely        | Sometimes     | Very often    | Very often    | Sometimes     | Very often    | Always        | Always        | Sometimes     | Sometimes     |
+| P76  | Rarely        | Very often    | Sometimes     | Very often    | Sometimes     | Always        | Sometimes     | Sometimes     | Sometimes     | Sometimes     |
+| P77  | Sometimes     | Sometimes     | Very often    | Very often    | Very often    | Very often    | Very often    | Very often    | Very often    | Very often    |
+| P78  | Always        | Very often    | Very often    | Very often    | Very often    | Sometimes     | Very often    | Rarely        | Rarely        | Sometimes     |
+| P79  | I am not sure | I am not sure | I am not sure | I am not sure | I am not sure | I am not sure | I am not sure | I am not sure | Sometimes     | Always        |
+| P80  | I am not sure | Always        | Sometimes     | Sometimes     | Very often    | Very often    | Rarely        | Very often    | Rarely        | Always        |
+| P81  | Sometimes     | Always        | Sometimes     | Always        | Very often    | Sometimes     | Very often    | Very often    | Sometimes     | Very often    |
+| P82  | Rarely        | Sometimes     | Sometimes     | Sometimes     | Very often    | Very often    | Very often    | Very often    | Rarely        | Always        |
+| P83  | Rarely        | Sometimes     | Very often    | Very often    | Very often    | Very often    | I am not sure | I am not sure | I am not sure | I am not sure |
+| P84  | Always        | Sometimes     | Sometimes     | Sometimes     | Very often    | Very often    | Very often    | Always        | Sometimes     | Rarely        |
+| P85  | I am not sure | Sometimes     | Sometimes     | Rarely        | Very often    | Sometimes     | Sometimes     | Rarely        | Always        | Sometimes     |
+| P86  | I am not sure | Very often    | Sometimes     | Always        | Sometimes     | Sometimes     | Always        | Always        | Sometimes     | Sometimes     |
+| P87  | Rarely        | Rarely        | Very often    | Rarely        | Rarely        | Very often    | Sometimes     | Very often    | Sometimes     | I am not sure |
+| P88  | Rarely        | Very often    | Sometimes     | Sometimes     | Rarely        | Very often    | Very often    | Very often    | Sometimes     | Sometimes     |
+| P89  | I am not sure | Very often    | I am not sure | Sometimes     | Sometimes     | Very often    | Very often    | Very often    | Very often    | Sometimes     |
+| P90  | I am not sure | Very often    | Very often    | Sometimes     | Always        | Very often    | Very often    | Very often    | Sometimes     | Sometimes     |
+| P91  | Always        | Very often    | Very often    | Very often    | Very often    | Always        | Very often    | Always        | Very often    | Very often    |
+| P92  | Always        | Sometimes     | Sometimes     | Very often    | Sometimes     | Very often    | Sometimes     | Sometimes     | Very often    | Sometimes     |
+| P93  | Rarely        | Very often    | Sometimes     | Rarely        | Rarely        | Very often    | Very often    | Very often    | Very often    | Sometimes     |
+| P94  | Very often    | Sometimes     | Sometimes     | Very often    | Sometimes     | Sometimes     | Very often    | Very often    | Very often    | Very often    |
+| P95  | Always        | Sometimes     | Very often    | Sometimes     | Sometimes     | Very often    | Always        | Always        | Sometimes     | Sometimes     |
+| P96  | I am not sure | Very often    | Very often    | Very often    | Very often    | Very often    | Very often    | Always        | Very often    | Always        |
+| P97  | Sometimes     | Sometimes     | Very often    | Very often    | Very often    | Very often    | Very often    | Very often    | Rarely        | Very often    |
+| P98  | Always        | Very often    | Sometimes     | Rarely        | Very often    | Very often    | Sometimes     | Sometimes     | Rarely        | Sometimes     |
+| P99  | Rarely        | Sometimes     | Sometimes     | Rarely        | Rarely        | Sometimes     | Sometimes     | Very often    | Very often    | Sometimes     |
+| P100 | I am not sure | Very often    | Rarely        | Sometimes     | Sometimes     | Very often    | Very often    | Always        | Sometimes     | I am not sure |
+| P101 | Always        | Very often    | Very often    | Very often    | Sometimes     | Always        | Always        | Always        | Sometimes     | Sometimes     |
 
 <br>
 <br>
