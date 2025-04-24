@@ -5,32 +5,32 @@
 | Categories and subcategories                                      | #          | %             |
 | ----------------------------------------------------------------- | ----------: | -------------: |
 | **P1 - Documentation and Transparency**                       | **31** | **41.3%** |
-| Provides detailed documentation                                   | 30         | 40.0%         |
-| Reflects on threats to validity                                   | 1          | 1.3%          |
+| - Provides detailed documentation                                   | 30         | 40.0%         |
+| - Reflects on threats to validity                                   | 1          | 1.3%          |
 | ----------------------------------------------------------------- | ---       | -------      |
 | **P2 - Sharing and Availability**                             | **71** | **94.7%** |
-| Shares data, tools, and/or replication packages                   | 54         | 72.0%         |
-| Uses Docker containers or similar technologies                    | 12         | 16.0%         |
-| Uses version control                                              | 4          | 5.3%          |
-| Pre-registers hypotheses / analysis plans                         | 1          | 1.3%          |
+| - Shares data, tools, and/or replication packages                   | 54         | 72.0%         |
+| - Uses Docker containers or similar technologies                    | 12         | 16.0%         |
+| - Uses version control                                              | 4          | 5.3%          |
+| - Pre-registers hypotheses / analysis plans                         | 1          | 1.3%          |
 | ----------------------------------------------------------------- | ---       | -------      |
 | **P3 - Validation and Verification**                          | **22** | **29.3%** |
-| Submits research for internal/external peer review                | 7          | 9.3%          |
-| Repeats experiments to confirm results                            | 11         | 14.7%         |
-| Ensures independent or external validation                        | 2          | 2.7%          |
-| Conducts pre-testing or controlled testing                        | 2          | 2.7%          |
+| - Submits research for internal/external peer review                | 7          | 9.3%          |
+| - Repeats experiments to confirm results                            | 11         | 14.7%         |
+| - Ensures independent or external validation                        | 2          | 2.7%          |
+| - Conducts pre-testing or controlled testing                        | 2          | 2.7%          |
 | ----------------------------------------------------------------- | ---       | -------      |
 | **P4 - Methodological Rigor**                                 | **13** | **17.3%** |
-| Employs own framework / technique / method / process              | 7          | 9.3%          |
-| Adopts well-established scientific standards and practices        | 6          | 8.0%          |
+| - Employs own framework / technique / method / process              | 7          | 9.3%          |
+| - Adopts well-established scientific standards and practices        | 6          | 8.0%          |
 | ----------------------------------------------------------------- | ---       | -------      |
 | **P5 - Community and Cultural Practices**                     | **11** | **14.7%** |
-| Submits artifacts for evaluation                                  | 4          | 5.3%          |
-| Adheres to Open Science practices                                 | 6          | 8.0%          |
-| Acts to promote a replication culture in the research community   | 1          | 1.3%          |
+| - Submits artifacts for evaluation                                  | 4          | 5.3%          |
+| - Adheres to Open Science practices                                 | 6          | 8.0%          |
+| - Acts to promote a replication culture in the research community   | 1          | 1.3%          |
 | ----------------------------------------------------------------- | ---       | -------      |
 | **P6 - Structural and Contextual Limits**                     | **1**  | **1.3%**  |
-| Places individual responsibility on applicability of 3R practices | 1          | 1.3%          |
+| - Places individual responsibility on applicability of 3R practices | 1          | 1.3%          |
 | ----------------------------------------------------------------- | ---       | -------      |
 | **_Total of responses_**                                      | **_75_**         | \-            |
 
