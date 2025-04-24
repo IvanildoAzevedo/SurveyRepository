@@ -11,7 +11,7 @@ Atrifacts related to the submitted paper **Survey-Based Insights into the Replic
 
 ## Raw data
 - [[Q1]-[Q2]-[Q3]-[Q4]-[Q5]-[Q6]-[Q7] - Demographic Data](data/DemographicData.md)
-- [[Q8]-[Q9] - Agreement with the ACM Repeatability Definition](data/Q8Q9.md)
+- [[Q8]-[Q9] - Agreement with the ACM Repeatability Definition](data/Q08Q09.md)
 - [[Q10]-[Q11] - Agreement with the ACM Reproducibility Definition](data/Q10Q11.md)
 - [[Q12]-[Q13] - Agreement with the ACM Replicability Definition](data/Q12Q13.md)
 - [[Q14] - The Importance of Repeatability, Reproducibility, and Replicability](data/Q14.md)
