@@ -1,12 +1,13 @@
 # Research artifacts
 
-This repository contains data collected and analyzed from the Survey Research about the perceptions of experienced Software Engineering researchers regarding the Replication Crisis and the distinct yet interrelated concepts of the Repeatability, Reproducibility, and Replicability (3R).
+This repository contains data collected and analyzed from a survey-based study investigating the perceptions of experienced Software Engineering researchers regarding the Replication Crisis and the distinct yet interrelated concepts of Repeatability, Reproducibility, and Replicability (3R).
 
-Atrifacts related to the submitted paper **Survey-Based Insights into the Replication Crisis and the 3R in Software Engineering**.
+The artifacts are associated with the submitted paper **Survey-Based Insights into the Replication Crisis and the 3R in Software Engineering**.
 
 ## Research Material
 - [Questionnaire](data/RMQuestionnaire.md)
-- [Inclusion and exclusion criteria](data/RMCriteria.md)
+- [Inclusion and Exclusion Criteria](data/RMCriteria.md)
+- Pre-print _(link will be provided upon acceptance of the paper)_
 
 
 ## Data
@@ -26,6 +27,7 @@ Atrifacts related to the submitted paper **Survey-Based Insights into the Replic
 | Q27, Q28                   | Challenges When Attempting to Replicate Studies                     | [Q27-Q28](https://github.com/IvanildoAzevedo/SurveyRepository/blob/main/data/Q27Q28.md)        | [Q28](https://github.com/IvanildoAzevedo/SurveyRepository/blob/main/data/LabeledQ28.md) |
 | Q29, Q30                   | Perceived Effectiveness of Initiatives to Foster 3R                 | [Q29-Q30](https://github.com/IvanildoAzevedo/SurveyRepository/blob/main/data/Q29Q30.md)        | [Q30](https://github.com/IvanildoAzevedo/SurveyRepository/blob/main/data/LabeledQ30.md) |
 | Q31                        | Experiment Statements                                               | [Q31](https://github.com/IvanildoAzevedo/SurveyRepository/blob/main/data/Q31.md)               | \-                                                                                                           |
+
 
 <!--
 The table below maps each group of survey questions to its corresponding content page, where you will find cleaned data, response summaries, and additional notes when relevant.
