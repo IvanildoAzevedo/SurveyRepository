@@ -17,4 +17,4 @@
 - Papers not available online.
 - Duplicate publications (papers that relates the same study, such as pre‑prints of an already included paper).
 - Meta-analyses, secondary, or tertiary studies.
-- Documents such as invited papers, presentations, tutorials, keynote speeches, workshop reports, theses, dissertations, technical reports, books, extended summaries, extended abstracts, posters, and papers expressing personal views or expert opinions.
+- Grey literature (documents such as invited papers, presentations, tutorials, keynote speeches, workshop reports, theses, dissertations, technical reports, books, extended summaries, extended abstracts, posters, and papers expressing personal views or expert opinions).
