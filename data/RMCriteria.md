@@ -2,7 +2,7 @@
 
 ## Inclusion criteria
 
-- Peer-reviewed papers (white papers).
+- Peer-reviewed papers (white literature).
 - Software Engineering papers.
 - Papers published between 2013 and 2022 (inclusive).
 - Papers that study replication or which report a replication of a previous study.
