@@ -4,23 +4,22 @@
 
 ### [Download the script](/data/scripts/Fig2.R)
 
-![Figure 2](/data/scripts/Fig2.png) 
+<img src="https://raw.githubusercontent.com/IvanildoAzevedo/SurveyRepository/main/data/scripts/Fig2.png" alt="Figure 2" style="width:60%;" />
 
 ## Figure 3
 
 ### [Download the script](/data/scripts/Fig3.R)
 
-![Figure 3](/data/scripts/Fig3.png) 
+<img src="https://raw.githubusercontent.com/IvanildoAzevedo/SurveyRepository/main/data/scripts/Fig3.png" alt="Figure 3" style="width:60%;" />
 
 ## Figure 4
 
 ### [Download the script](/data/scripts/Fig4.R)
 
-![Figure 2](/data/scripts/Fig4.png) 
+<img src="https://raw.githubusercontent.com/IvanildoAzevedo/SurveyRepository/main/data/scripts/Fig4.png" alt="Figure 4" style="width:60%;" />
 
 ## Figure 5
 
 ### [Download the script](/data/scripts/Fig5.R)
 
-![Figure 2](/data/scripts/Fig5.png) 
-
+<img src="https://raw.githubusercontent.com/IvanildoAzevedo/SurveyRepository/main/data/scripts/Fig5.png" alt="Figure 5" style="width:60%;" />
