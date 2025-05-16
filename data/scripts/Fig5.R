@@ -1,3 +1,5 @@
+this_file <- dirname(rstudioapi::getSourceEditorContext()$path)
+setwd(this_file)
 
 library(tidyverse)
 
