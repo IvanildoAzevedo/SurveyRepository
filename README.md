@@ -7,6 +7,7 @@ The artifacts are associated with the submitted paper **Survey-Based Insights in
 ## Research Material
 - [Questionnaire](data/RMQuestionnaire.md)
 - [Inclusion and Exclusion Criteria](data/RMCriteria.md)
+- [Scripts](data/scripts.md)
 - Pre-print _(link will be provided upon acceptance of the paper)_
 
 
