@@ -29,6 +29,11 @@ The artifacts are associated with the submitted paper **Survey-Based Insights in
 | Q29, Q30                   | Perceived Effectiveness of Initiatives to Foster 3R                 | [Q29-Q30](https://github.com/IvanildoAzevedo/SurveyRepository/blob/main/data/Q29Q30.md)        | [Q30](https://github.com/IvanildoAzevedo/SurveyRepository/blob/main/data/LabeledQ30.md) |
 | Q31                        | Experiment Statements                                               | [Q31](https://github.com/IvanildoAzevedo/SurveyRepository/blob/main/data/Q31.md)               | \-                                                                                                           |
 
+## License
+
+- The research data and artifacts are licensed under the [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).
+
+
 
 <!--
 The table below maps each group of survey questions to its corresponding content page, where you will find cleaned data, response summaries, and additional notes when relevant.
