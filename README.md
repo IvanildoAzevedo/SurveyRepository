@@ -1,4 +1,6 @@
 # Research artifacts
+<!--
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15508756.svg)](https://doi.org/10.5281/zenodo.15508756) -->
 
 This repository contains data collected and analyzed from a survey-based study investigating the perceptions of experienced Software Engineering researchers regarding the Replication Crisis and the distinct yet interrelated concepts of Repeatability, Reproducibility, and Replicability (3R).
 
