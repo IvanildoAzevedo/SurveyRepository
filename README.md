@@ -1,112 +1,142 @@
-# Research artifacts
+# Research Artifacts
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15508756.svg)](https://doi.org/10.5281/zenodo.15508756)
+The archived artifact is publicly available via Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15508756.svg)](https://doi.org/10.5281/zenodo.15508756) 
 
-This repository contains data collected and analyzed from a survey-based study investigating the perceptions of experienced Software Engineering researchers regarding the Replication Crisis and the distinct yet interrelated concepts of Repeatability, Reproducibility, and Replicability (3R).
+<br>
 
-The artifacts are associated with the submitted paper **Survey-Based Insights into the Replication Crisis and the 3R in Software Engineering**.
+## 📋 Overview
+This repository contains the dataset, scripts, and documentation for the paper **Survey‑Based Insights into the Replication Crisis and the 3R in Software Engineering**.
 
-## Research Material
-- [Questionnaire](data/RMQuestionnaire.md)
-- [Inclusion and Exclusion Criteria](data/RMCriteria.md)
-- [Scripts](data/scripts.md)
-- Pre-print _(link will be provided upon acceptance of the paper)_
+<br>
 
+## 📂 Repository Structure
 
-## Data content
+```
+SurveyRepository/
+├── data/
+│   └── material/
+│   └── scripts/
+│   └── survey-data/
+├── LICENSE
+├── LICENSE-MIT
+├── Paper.pdf
+├── README.md
+```
 
-| Question(s)                | Content                                                             |
-| -------------------------- | ------------------------------------------------------------------- |
-| Q1, Q2, Q3, Q4, Q5, Q6, Q7 | Demographic Data                                                    |
-| Q8, Q9                     | Agreement with the ACM Repeatability Definition                     |
-| Q10, Q11                   | Agreement with the ACM Reproducibility Definition                   |
-| Q12, Q13                   | Agreement with the ACM Replicability Definition                     |
-| Q14                        | The Importance of Repeatability, Reproducibility, and Replicability |
-| Q15, Q16, Q17, Q18         | Replication Crisis in Software Engineering                          |
-| Q19, Q20                   | 3R as a Significant Challenge                                       |
-| Q21, Q22, Q23              | Practices to Ensure the 3R                                          |
-| Q24                        | Failure to Reproduce Results                                        |
-| Q25                        | Frequent Contributors to 3R Failures                                |
-| Q26                        | Frequent Contributors to 3R Failures                                |
-| Q27, Q28                   | Challenges When Attempting to Replicate Studies                     |
-| Q29                        | Perceived Effectiveness of Initiatives to Foster 3R                 |
-| Q30                        | Perceived Effectiveness of Initiatives to Foster 3R                 |
-| Q31                        | Experiment Statements                                               |
+### 📂 data/
+Contains survey responses, processed datasets, and supporting material used in the study.
 
+### 📂 [data/material/](data/material/materials.md)
+Includes the materials used to conduct the study, such as the survey questionnaire and the inclusion/exclusion criteria for selecting papers from which participant emails were extracted.
 
+### 📂 [data/scripts/](data/scripts/scripts.md)
+Contains R scripts used to generate the plots presented in the paper.
 
-## Data x paper
+### 📂 [data/survey-data/](data/survey-data/data-details.md)
+Provides raw and labeled data organized by survey question.
 
-| Where is it in the paper?                                                                                                                                  | Raw data                                                                                       | Labeled<br>data                                                                         |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| Q1 to Q3 - They are not in the paper<br>Q4 to Q7 - Section 4. Results and discussion - in text                                                             | [Q1-Q7](https://github.com/IvanildoAzevedo/SurveyRepository/blob/main/data/DemographicData.md) | \-                                                                                      |
-| Q8 - Section 4.1 3R (RQ1) - Figure 2<br>Q9 - Section 4.1 3R (RQ1) - in text                                                                            | [Q8-Q9](https://github.com/IvanildoAzevedo/SurveyRepository/blob/main/data/Q08Q09.md)          | \-                                                                                      |
-| Q10 - Section 4.1 3R (RQ1) - Figure 2<br>Q11 - Section 4.1 3R (RQ1) - in text                                                                          | [Q10-Q11](https://github.com/IvanildoAzevedo/SurveyRepository/blob/main/data/Q10Q11.md)        | \-                                                                                      |
-| Q12 - Section 4.1 3R (RQ1) - Figure 2<br>Q13 - Section 4.1 3R (RQ1) - in text                                                                          | [Q12-Q13](https://github.com/IvanildoAzevedo/SurveyRepository/blob/main/data/Q12Q13.md)        | \-                                                                                      |
-| Q14 - It is not in the paper                                                                                                                               | [Q14](https://github.com/IvanildoAzevedo/SurveyRepository/blob/main/data/Q14.md)               | \-                                                                                      |
-| Q15 to Q18 - Section 4.2 Replication Crisis (RQ2) - in text                                                                                                | [Q15-Q18](https://github.com/IvanildoAzevedo/SurveyRepository/blob/main/data/Q15Q16Q17Q18.md)  | \-                                                                                      |
-| Q19 - Section 4.3 Replication Crisis factors (RQ2.1) - 3R as a significant challenge<br>Q20 - Section 4.3 Replication Crisis factors (RQ2.1) - Table 1 | [Q19-Q20](https://github.com/IvanildoAzevedo/SurveyRepository/blob/main/data/Q19Q20.md)        | [Q20](https://github.com/IvanildoAzevedo/SurveyRepository/blob/main/data/LabeledQ20.md) |
-| Q21 - Section 4.3 Replication Crisis factors (RQ2.1) - in text<br>Q23 - Section 4.3 Replication Crisis factors (RQ2.1) - Figure 3                      | [Q21-Q23](https://github.com/IvanildoAzevedo/SurveyRepository/blob/main/data/Q21Q22Q23.md)     | \-                                                                                      |
-| Q22 - Section 4.3 Replication Crisis factors (RQ2.1) - Table 2<br>                                                                                         | \-                                                                                             | [Q22](https://github.com/IvanildoAzevedo/SurveyRepository/blob/main/data/LabeledQ22.md) |
-| Q24 - It is not in the paper                                                                                                                               | [Q24](https://github.com/IvanildoAzevedo/SurveyRepository/blob/main/data/Q24.md)               | \-                                                                                      |
-| Q25 - Section 4.3 Replication Crisis factors (RQ2.1) - Figure 4                                                                                            | [Q25](https://github.com/IvanildoAzevedo/SurveyRepository/blob/main/data/Q25.md)               | \-                                                                                      |
-| Q26 - Section 4.3 Replication Crisis factors (RQ2.1) - Table 3                                                                                             | \-                                                                                             | [Q26](https://github.com/IvanildoAzevedo/SurveyRepository/blob/main/data/LabeledQ26.md) |
-| Q27 - Section 4.3 Replication Crisis factors (RQ2.1) - in text                                                                                             | [Q27-Q28](https://github.com/IvanildoAzevedo/SurveyRepository/blob/main/data/Q27Q28.md)        | \-                                                                                      |
-| Q28 - Section 4.3 Replication Crisis factors (RQ2.1) - Table 4                                                                                             | \-                                                                                             | [Q28](https://github.com/IvanildoAzevedo/SurveyRepository/blob/main/data/LabeledQ28.md) |
-| Q29 - Section 4.3 Replication Crisis factors (RQ2.1) - Figure 5                                                                                            | [Q29](https://github.com/IvanildoAzevedo/SurveyRepository/blob/main/data/Q29.md)               | \-                                                                                      |
-| Q30 - Section 4.3 Replication Crisis factors (RQ2.1) - Table 5                                                                                             | \-                                                                                             | [Q30](https://github.com/IvanildoAzevedo/SurveyRepository/blob/main/data/LabeledQ30.md) |
-| Q31 - It is not in the paper                                                                                                                               | [Q31](https://github.com/IvanildoAzevedo/SurveyRepository/blob/main/data/Q31.md)               | \-                                                                                      |
+### 📄 [Paper.pdf](Paper.pdf)
+The full paper, related to this artifact, describing the study's methodology, analysis, and findings.
 
-<!--
+### 📄 [LICENSE](LICENSE) / [LICENSE-MIT](LICENSE-MIT)
+Defines the licensing terms for using the content and code in this repository.
 
+### 📄 README.md
+This file — includes an overview, usage guide, and citation instructions.
 
-| Question(s)                | Content                                                             | Raw data                                                                                                | Labeled data                                                                                                 |
-| -------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| Q1, Q2, Q3, Q4, Q5, Q6, Q7 | Demographic Data                                                    | [Q1-Q7](https://github.com/IvanildoAzevedo/SurveyRepository/blob/main/data/DemographicData.md) | \-                                                                                                           |
-| Q8, Q9                     | Agreement with the ACM Repeatability Definition                     | [Q8-Q9](https://github.com/IvanildoAzevedo/SurveyRepository/blob/main/data/Q08Q09.md)          | \-                                                                                                           |
-| Q10, Q11                   | Agreement with the ACM Reproducibility Definition                   | [Q10-Q11](https://github.com/IvanildoAzevedo/SurveyRepository/blob/main/data/Q10Q11.md)        | \-                                                                                                           |
-| Q12, Q13                   | Agreement with the ACM Replicability Definition                     | [Q12-Q13](https://github.com/IvanildoAzevedo/SurveyRepository/blob/main/data/Q12Q13.md)        | \-                                                                                                           |
-| Q14                        | The Importance of Repeatability, Reproducibility, and Replicability | [Q14](https://github.com/IvanildoAzevedo/SurveyRepository/blob/main/data/Q14.md)               | \-                                                                                                           |
-| Q15, Q16, Q17, Q18         | Replication Crisis in Software Engineering                          | [Q15-Q18](https://github.com/IvanildoAzevedo/SurveyRepository/blob/main/data/Q15Q16Q17Q18.md)  | \-                                                                                                           |
-| Q19, Q20                   | 3R as a Significant Challenge                                       | [Q19-Q20](https://github.com/IvanildoAzevedo/SurveyRepository/blob/main/data/Q19Q20.md)        | [Q20](https://github.com/IvanildoAzevedo/SurveyRepository/blob/main/data/LabeledQ20.md) |
-| Q21, Q22, Q23              | Practices to Ensure the 3R                                          | [Q21-Q23](https://github.com/IvanildoAzevedo/SurveyRepository/blob/main/data/Q21Q22Q23.md)     | [Q22](https://github.com/IvanildoAzevedo/SurveyRepository/blob/main/data/LabeledQ22.md) |
-| Q24                        | Failure to Reproduce Results                                        | [Q24](https://github.com/IvanildoAzevedo/SurveyRepository/blob/main/data/Q24.md)               | \-                                                                                                           |
-| Q25, Q26                   | Frequent Contributors to 3R Failures                                | [Q25-Q26](https://github.com/IvanildoAzevedo/SurveyRepository/blob/main/data/Q25Q26.md)        | [Q26](https://github.com/IvanildoAzevedo/SurveyRepository/blob/main/data/LabeledQ26.md) |
-| Q27, Q28                   | Challenges When Attempting to Replicate Studies                     | [Q27-Q28](https://github.com/IvanildoAzevedo/SurveyRepository/blob/main/data/Q27Q28.md)        | [Q28](https://github.com/IvanildoAzevedo/SurveyRepository/blob/main/data/LabeledQ28.md) |
-| Q29, Q30                   | Perceived Effectiveness of Initiatives to Foster 3R                 | [Q29-Q30](https://github.com/IvanildoAzevedo/SurveyRepository/blob/main/data/Q29Q30.md)        | [Q30](https://github.com/IvanildoAzevedo/SurveyRepository/blob/main/data/LabeledQ30.md) |
-| Q31                        | Experiment Statements                                               | [Q31](https://github.com/IvanildoAzevedo/SurveyRepository/blob/main/data/Q31.md)               | \-                                                                                                           |
+<br>
 
--->
+## 💾 Storage Requirements
+The total size of this repository is under 5 MB. No special storage requirements are necessary.
 
-## License
+<br>
 
-- The **R scripts** in this repository are licensed under the [MIT License](LICENSE-MIT).
-- The **research data and artifacts** are licensed under the [CC BY 4.0 License](LICENSE).
+## 🛠 How to Run the Scripts
+
+### ⚙️ Requirements
+
+To run the scripts, you need:
+
+- [R](https://cran.r-project.org/) installed on your machine.
+
+- [RStudio](https://www.rstudio.com/products/rstudio/download/) (optional, but recommended).
 
 
+### ⏱ System Requirements
 
-<!--
-The table below maps each group of survey questions to its corresponding content page, where you will find cleaned data, response summaries, and additional notes when relevant.
-## Raw data
+No specific hardware requirements are needed to execute the scripts.
 
-- [[Q1]-[Q2]-[Q3]-[Q4]-[Q5]-[Q6]-[Q7] - Demographic Data](data/DemographicData.md)
-- [[Q8]-[Q9] - Agreement with the ACM Repeatability Definition](data/Q08Q09.md)
-- [[Q10]-[Q11] - Agreement with the ACM Reproducibility Definition](data/Q10Q11.md)
-- [[Q12]-[Q13] - Agreement with the ACM Replicability Definition](data/Q12Q13.md)
-- [[Q14] - The Importance of Repeatability, Reproducibility, and Replicability](data/Q14.md)
-- [[Q15]-[Q16]-[Q17]-[Q18] - Replication Crisis in Software Engineering](data/Q15Q16Q17Q18.md)
-- [[Q19]-[Q20] - 3R as a significant challenge](data/Q19Q20.md)
-- [[Q21]-[Q22]-[Q23] - Practices to ensure the 3R](data/Q21Q22Q23.md)
-- [[Q24] - Failure to reproduce results](data/Q24.md)
-- [[Q25]-[Q26] - Frequent Contributors to 3R Failures](data/Q25Q26.md)
-- [[Q27]-[Q28] - Challenges faced when attempting to replicate studies](data/Q27Q28.md)
-- [[Q29]-[Q30] - Perceived effectiveness of initiatives to foster 3R](data/Q29Q30.md)
-- [[Q31] - Experiment statements](data/Q31.md) 
 
-## Labeled data
-- [Answers to [Q20]](data/LabeledQ20.md)
-- [Answers to [Q22]](data/LabeledQ22.md)
-- [Answers to [Q26]](data/LabeledQ26.md)
-- [Answers to [Q28]](data/LabeledQ28.md)
-- [Answers to [Q30]](data/LabeledQ30.md)
--->
+### 🛠 Steps to Run
+
+1. Download and install **R**.
+2. Download and install **RStudio**.
+3. Download an R script from the [scripts folder](data/scripts/scripts.md).
+4. Open an R script.
+  - Open one script at a time.
+6. Run the script using:
+  - **Mac**: `Cmd + Shift + Enter`
+  - **Windows/Linux**: `Ctrl + Shift + Enter`
+5. Open the output image file generated by R.
+  - It will be saved in the same folder as the script, using the same filename.
+
+> 💡 Each script generates one plot used in the [paper](Paper.pdf).
+
+<br>
+
+## 📄 Citation
+
+### 📝 Citing the Paper
+
+If you use the data or findings from this repository, please cite the paper:
+
+```bibtex
+@inproceedings{AzevedoEtAl2025,
+  author     = {Ivanildo Azevedo and
+                Ana Paula Vasconcelos and
+                Eudis Teixeira and
+                Sergio Soares},
+  title      = {Survey-Based Insights into the Replication Crisis and the 3R in Software Engineering},
+  booktitle  = {Proceedings of the 39th Brazilian Symposium on Software Engineering (SBES '25)},
+  location   = {Recife/PE},
+  year       = {2025},
+  issn       = {},
+  pages      = {},
+  publisher  = {SBC},
+  address    = {Porto Alegre, RS, Brasil},
+  doi        = {},
+  url        = {}
+}
+```
+
+### 📦 Citing the Artifact
+
+If you wish to cite only the archived artifact at Zenodo:
+
+```bibtex
+@misc{AzevedoEtAl2025,
+  author       = {Ivanildo Azevedo and
+                  Ana Paula Vasconcelos and
+                  Eudis Teixeira and
+                  Sergio Soares},
+  title        = {Research Artifacts of Survey‑Based Insights into the Replication
+                  Crisis and the 3R in Software Engineering},
+  year         = {2025},
+  publisher    = {Zenodo},
+  version      = {v1.0},
+  doi          = {10.5281/zenodo.15508756},
+  url          = {https://doi.org/10.5281/zenodo.15508756}
+}
+```
+
+<br>
+
+## 🛡️ Ethical and Legal Considerations
+All data used in this study were collected anonymously and with informed consent from participants. No personally identifiable information is included. The study complies with institutional ethical guidelines and was conducted solely for academic research purposes.
+
+<br>
+
+## 📜 License
+
+- **R scripts** are licensed under the [MIT License](LICENSE-MIT).
+- **Research data and artifacts** are licensed under the [CC BY 4.0 License](LICENSE).
