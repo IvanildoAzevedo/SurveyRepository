@@ -1,5 +1,12 @@
 # Scripts
 
+This page contains the R scripts used to generate the figures presented in the paper. Each script can be downloaded and run locally in [RStudio](https://posit.co/download/rstudio-desktop/). 
+
+For execution instructions, see [**How to Run the Scripts**](../../README.md#-how-to-run-the-scripts). 
+
+Figures are shown below for reference.
+
+
 ## Figure 2
 
 ### [Download the script](/data/scripts/Fig2.R)
